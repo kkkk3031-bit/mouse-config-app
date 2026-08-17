@@ -3,6 +3,8 @@
 Small GUI tool that lets you configure what each mouse button does and generates
 a ready-to-paste Logitech G HUB Lua script.
 
+![screenshot](screenshot.png)
+
 ## Run
 ```
 python3 app.py
